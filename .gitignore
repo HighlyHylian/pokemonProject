@@ -1,4 +1,5 @@
 *venv/*
+test_images/*
 */test_images/*
 */pokemon_images/*
 *.png
