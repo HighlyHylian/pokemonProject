@@ -2,6 +2,10 @@
 */test_images/*
 */pokemon_images/*
 *.png
+*.webp
+*.jpe?g
+checkpoints/
+graph_checkpoint_losses.py
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -220,3 +224,5 @@ __marimo__/
 .streamlit/secrets.toml
 test_images/dog.jpg
 test_images/dog2.jpg
+predictor.py
+loss_log.txt
