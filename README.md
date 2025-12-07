@@ -5,7 +5,6 @@ Create a model that can accurately predict a Pokemon's type from image input alo
 ```diff
 + Generate a dataset containing images of every Pokedex entry with type labels using PokeAPI
 + Generate a model that can predict typing of Pokemon it was not trained on
-- Test on Pokemon that the model was trained on, but not on sprites it was trained on
 - Test on art of non-Pokemon
 - Create a language model that creates Pokedex description entries
 ```
